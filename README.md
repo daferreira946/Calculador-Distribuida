@@ -1,1 +1,1 @@
-"# Calculadora-Distribuida" 
+# Calculadora-Distribuida
